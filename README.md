@@ -8,4 +8,5 @@
 - [Project 1](https://github.com/jzhu808/ISOM-673-Social-Network-Analytics/blob/master/SN%20Final%20Project%20Slides.pdf) - Use social network analytics to answer following questions: What are the most popular destinations? Is this popularity associated with geographical measures? Which cities/countries are important in the global network? Does the network have any correlation with socioeconomics factors?
   > Tools Used: RStudio (with iGraph package)  
   R File: [SNW_Final.R](https://github.com/jzhu808/ISOM-673-Social-Network-Analytics/blob/master/SNW_Final.R)  
+  Full Report: [Final Paper.pdf](https://github.com/jzhu808/ISOM-673-Social-Network-Analytics/blob/master/Final%20Paper.pdf)  
   Data Used: [Open Flight Dataset](https://openflights.org/data.html)
